@@ -1,3 +1,2 @@
 # DSC180A-Methodology-3
-Edgar Cisneros Barron
-ecisnerosbarron@ucsd.edu
+Edgar Cisneros Barron and Imangali Amangeldi
